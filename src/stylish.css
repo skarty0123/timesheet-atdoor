@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    line-height: 200%;
+}
+body{
+    padding:0px;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+h1{
+    height: 50px;
+    align-items: center;
+    top:0px;
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    width: 100%;
+
+}
+
+form{
+    padding-top: 40px;
+    padding-left: 40%;
+}
+
+label{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    display: block;
+}
+#submit{
+    align-items: center;
+    padding-left: 5%;
+
+}
+#work{
+    width: 400px;
+
+}
+#eff{
+    width: 400px;
+
+}
+#sbut{
+    background-color: darkcyan;
+    color: white;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+
+}
+
